@@ -1,15 +1,15 @@
 <h1 align="center">Hello hello, my name is Kristiyan Stoimenov</h1>
 <h3 align="center">Highly motivated Systems programming student with interests in natural language processing, compilers, operating systems and retro technologies.</h3>
 
-- 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
-
 - 🔭 I’m currently working on [Kivi](https://github.com/boki1/kivi)
 
-- 🌱 I’m currently learning **C++ and Rust**
+- 🔭 I’m currently working on [m6502-emulator](https://github.com/boki1/6502-emulator)
+
+- 🌱 I’m currently learning **C++, Rust and Python**
 
 - 📫 Reach me at **kristoimenov@gmail.com**
 
-- ⚡ Fun fact **I love fantasy stories.**
+- ⚡ Fun fact: **I really enjoy fantasy stories.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
