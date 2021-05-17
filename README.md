@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Kivi](https://github.com/boki1/kivi)
 
-- 🔭 I’m currently working on [m6502-emulator](https://github.com/boki1/6502-emulator)
-
 - 🌱 I’m currently learning **C++, Rust and Python**
 
 - 📫 Reach me at **kristoimenov@gmail.com**
