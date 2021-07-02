@@ -1,9 +1,9 @@
 <h1 align="center">Hello hello, my name is Kristiyan Stoimenov</h1>
 <h3 align="center">Highly motivated Systems programming student with interests in natural language processing, compilers, operating systems and retro technologies.</h3>
 
-- 🔭 I’m currently working on [Kivi](https://github.com/boki1/kivi)
+- 🔭 I’m currently working on [Telamon](https://github.com/boki1/telamon)
 
-- 🌱 I’m currently learning **C++, Rust and Python**
+- 🌱 I’m currently learning **C++ and Rust**
 
 - 📫 Reach me at **kristoimenov@gmail.com**
 
