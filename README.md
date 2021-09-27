@@ -4,6 +4,8 @@
 
 - 📖 Improving my **C** and **C++** skills
 
+- 🌽 Interested in kernel development. Currently reading [Linux Kernel Developement](https://boki1.github.io/notes/LinuxKernelDevelopment_2010.html)
+
 <p align="left">
 <h5 align="left">Connect with me</h5>
 <a href="https://linkedin.com/in/kristiyan stoimenov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kristiyan stoimenov" height="30" width="40" /></a> <a href="mailto:kristoimenov@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:kristoimenov@gmail.com" height="30" width="40" /></a>
