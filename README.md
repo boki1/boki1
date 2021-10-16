@@ -1,4 +1,4 @@
-<h4 align="left">Hi, there 🙂. Here some info about me.</h4>
+<h4 align="left">Hi, there. Here's some info about me.</h4>
 
 - 👨‍💻 Working on [Eugene](https://github.com/boki1/eugene)
 
