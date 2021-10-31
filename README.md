@@ -2,9 +2,11 @@
 
 - 👨‍💻 Working on [Eugene](https://github.com/boki1/eugene)
 
-- 📖 Improving my **C** and **C++** skills
+- 🤔 Improving my **C** and **C++** skills
 
-- 🌽 Interested in kernel development. Currently reading [Linux Kernel Developement](https://boki1.github.io/notes/LinuxKernelDevelopment_2010.html)
+- 🌽 Interested in operating systems.
+- 
+- 📖 Currently reading [Modern Btree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 
 <p align="left">
 <h5 align="left">Connect with me</h5>
