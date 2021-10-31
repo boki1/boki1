@@ -5,7 +5,7 @@
 - 🤔 Improving my **C** and **C++** skills
 
 - 🌽 Interested in operating systems.
-- 
+ 
 - 📖 Currently reading [Modern Btree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 
 <p align="left">
