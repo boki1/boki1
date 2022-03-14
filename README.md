@@ -2,9 +2,9 @@
 
 - 👨‍💻 Finishing my thesis project [Eugene](https://github.com/boki1/eugene)
 
-- 🤔 Improving my **C** and **C++** skills
+- ⤴️ Improving my **C** and **C++** skills
  
-- 🥇 Just recently won [Hack TUES ♾️](hacktues.bg)
+- 🥇 Just recently won [Hack TUES ♾️](https://hacktues.bg)
 
 <p align="left">
 <h5 align="left">Connect with me</h5>
