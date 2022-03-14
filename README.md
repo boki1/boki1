@@ -1,12 +1,10 @@
 <h4 align="left">Hi, there. Here's some info about me.</h4>
 
-- 👨‍💻 Working on [Eugene](https://github.com/boki1/eugene)
+- 👨‍💻 Finishing my thesis project [Eugene](https://github.com/boki1/eugene)
 
 - 🤔 Improving my **C** and **C++** skills
-
-- 🌽 Interested in operating systems.
  
-- 📖 Currently reading [Modern Btree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
+- 🥇 Just recently won [Hack TUES ♾️](hacktues.bg)
 
 <p align="left">
 <h5 align="left">Connect with me</h5>
