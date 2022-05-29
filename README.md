@@ -1,6 +1,6 @@
 <h4 align="left">Hi, there. Here's some info about me.</h4>
 
-- 👨‍💻 Finishing my thesis project [Eugene](https://github.com/boki1/eugene)
+- 👨‍💻 Currently hacking around compilers.
 
 - ⤴️ Improving my **C** and **C++** skills
  
