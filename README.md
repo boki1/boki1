@@ -1,6 +1,6 @@
 <h4 align="left">Hi, there. Here's some info about me.</h4>
 
-- 👨‍💻 Currently hacking around different FOSS projects, primarily related to operating system kernels and compilers.
+- 👨‍💻 Currently exploring the depths of theoretical Computer Science at FMI.
 
 - ⤴️ Improving my **C** and **C++** skills
  
