@@ -1,6 +1,6 @@
 <h4 align="left">Hi, there. Here's some info about me.</h4>
 
-- 👨‍💻 Currently exploring the depths of theoretical Computer Science at FMI.
+- 👨‍💻 Currently studying "Informatics" at FMI.
 
 - ⤴️ Improving my **C** and **C++** skills
  
