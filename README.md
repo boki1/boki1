@@ -3,6 +3,8 @@
 - 👨‍💻 Currently studying "Informatics" at FMI.
 
 - ⤴️ Improving my **C** and **C++** skills
+
+- 📖 Right now I am reading Dan Saracino's "Abstract Algebra: A First Course" 
  
 - 🥇 Just recently won [Hack TUES ♾️](https://hacktues.bg).
 
