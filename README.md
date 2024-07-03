@@ -2,11 +2,11 @@
 
 - 👨‍💻 Currently studying "Informatics" at FMI.
 
-- ⤴️ Improving my **C** and **C++** skills
+- ⤴️ Writing mostly **C** on a daily basis.
 
-- 📖 Right now I am reading Dan Saracino's "Abstract Algebra: A First Course" 
+- 📖 Right now I am reading Minko Markov's ["Лекции по Алгоритми"](https://learn.fmi.uni-sofia.bg/pluginfile.php/493084/mod_resource/content/13/lec-algs.pdf) 
  
-- 🥇 Just recently won [Hack TUES ♾️](https://hacktues.bg).
+- 🥇 Proud winner of [Hack TUES ♾️](https://hacktues.bg), 2021/22.
 
 <p align="left">
 <h5 align="left">Contact me</h5>
@@ -15,7 +15,7 @@
 
 <h5 align="left">Languages and Tools</h5>
 <p>
-Most of the time I am using theses tehnologies (not in any particular order):
+Most of the time I am using these tehnologies:
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
